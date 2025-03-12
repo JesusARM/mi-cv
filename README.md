@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Jesús Alberto Rosales Martinez
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Ubicación:** Nuevo Laredo - TAMPS 88274  
+**Correo:** [JesusARM27@hotmail.com](mailto:JesusARM27@hotmail.com)  
+**Teléfono:** +528672436000  
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## Perfil Profesional
 
-### `npm start`
+Desarrollador web con 3 años de experiencia, especializado en la creación de APIs y soluciones backend. Manejo tecnologías como NodeJS, Express, API REST, microservicios, JavaScript, HTML, CSS, PHP, AJAX, jQuery y Bootstrap, complementadas con herramientas como Docker e IIS. Poseo experiencia desarrollando proyectos propios bajo supervisión y colaborando con diversos departamentos para implementar módulos y mejoras. Mi habilidad para automatizar tareas a través de microservicios respalda mi compromiso con la mejora continua de la arquitectura de sistemas y la entrega de soluciones eficientes e innovadoras.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Disponibilidad para trasladarse a:** Cualquier parte
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## Experiencia Laboral
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Desarrollador Web  
+**Bricer Logistics SA de CV, Nuevo Laredo, Tamps.**  
+*junio 2024 - Actualmente*  
+- Desarrollo de software utilizando Bootstrap, JavaScript, JQuery, AJAX, PHP y SQL.  
+- Uso de entornos de desarrollo como XAMPP, Docker, Windows Server e IIS.  
+- Análisis de requisitos para el desarrollo de módulos.  
+- Gestión de bases de datos y elaboración de reportes con consultas.  
+- Desarrollo de sitio web para rastreo de paquetes con integración de APIs de terceros.  
+- Actualización y desarrollo de funcionalidades en proyectos existentes.  
+- Soporte técnico general, preventivo y correctivo a equipos.
 
-### `npm run build`
+### Auxiliar de Sistemas  
+**EFT EXPRESS SA de CV, Nuevo Laredo, Tamps.**  
+*diciembre 2022 - junio 2024*  
+- Desarrollo de software con Bootstrap, JavaScript, JQuery, AJAX, PHP, SQL y NodeJS.  
+- Uso de entornos de desarrollo como XAMPP, Docker, Windows Server e IIS.  
+- Actualización y desarrollo de funcionalidades en proyectos existentes.  
+- Soporte técnico general, preventivo y correctivo a equipos.  
+- Administración de servidores y configuración de redes compartidas.  
+- Desarrollo de microservicios y API REST con NodeJS.  
+- Preparación y respaldo de equipos.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Desarrollador de Software  
+**Skyversa, Nuevo Laredo, Tamps.**  
+*diciembre 2021 - diciembre 2022*  
+- Desarrollo de microservicios en NodeJS y creación de API REST.  
+- Actualización de funcionalidades mediante la edición de componentes del frontend.  
+- Creación de consultas con MongoDB.  
+- Soporte técnico a plataformas de logística.  
+- Manejo de bases de datos relacionales y no-relacionales.  
+- Conocimientos básicos en Amazon Web Services y en procesos del sector transporte y logística.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Educación y Formación
 
-### `npm run eject`
+**Licenciatura en Sistemas de Información (trunca o en curso)**  
+*utel - Ciudad de México*  
+*julio 2021 - Actualmente*
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Habilidades y Conocimientos
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Desarrollo de software (3 años)  
+- Análisis de sistemas (1 año)  
+- Implementación de software (3 años)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## Idiomas
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Inglés: Intermedio
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+> **Nota:** Este formato es temporal debido a limitaciones de tiempo.
